@@ -1,5 +1,10 @@
 # Changelog
 
+## 21.2 (2011-11-24)
+
+- Fixes CDN URL in BOOTSTRAP5_DEFAULTS setting for javascript dependencies (#208).
+- Correct bootstrap_field.addon_[before|after]_class behavior to match documentation (#153).
+
 ## 21.1 (2021-11-01)
 
 - Switch to a [CalVer](https://calver.org) YY.MINOR versioning scheme. MINOR is the number of the release in the given year. This is the first release in 2021 using this scheme, so its version is 21.1. The next version this year will be 21.2. The first version in 2022 will be 22.1.
